@@ -8,7 +8,7 @@ The app is the real product; the components are the reusable layer underneath it
 Both ship in this repo, and you can flip between them in the running app
 ("View component library" in the sidebar).
 
-**🔗 Live demo:** _coming soon_ &nbsp;·&nbsp; **Stack:** React 18 · TypeScript (strict) · Vite · Vitest · zero UI dependencies
+**🔗 Live demo:** **[a11y-components-ten.vercel.app](https://a11y-components-ten.vercel.app/)** &nbsp;·&nbsp; **Stack:** React 18 · TypeScript (strict) · Vite · Vitest · zero UI dependencies
 
 ![Atlas Hiring dashboard with the candidate detail drawer open](docs/screenshots/candidate-drawer.png)
 
